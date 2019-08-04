@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+5V Pin=J10-1A
+Removed Pin From Net: NetName=+5V Pin=J10-1B
+Removed Pin From Net: NetName=GND Pin=J10-2A
+Removed Pin From Net: NetName=GND Pin=J10-2B
+Change Component Footprint: Designator=J10 Old Footprint=KLD-0202 New Footprint=*CUI_PJ-102AH
+Change Component Comment : Designator=J10 Old Comment=PWR2.5 New Comment=PJ-102AH
+Change component parameters: Designator = "J10"; Footprint = "*CUI_PJ-102AH"; UniqueID = "\DKKDQLCW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Beat Box Schematic Member=Component * Mount Hole
+Added Member To Class: ClassName=Beat Box Schematic Member=Component * Mount Hole
+Added Member To Class: ClassName=Beat Box Schematic Member=Component * Mount Hole

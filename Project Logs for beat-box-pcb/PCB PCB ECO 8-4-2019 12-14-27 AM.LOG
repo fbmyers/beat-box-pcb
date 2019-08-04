@@ -1,0 +1,90 @@
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.2 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.2 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.2 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.2 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.2 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.2 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.2 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.2 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.2 New Footprint=RAD-0.1
+Change Component Footprint: Designator=C? Old Footprint=RAD-0.2 New Footprint=RAD-0.1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=P? NewDesignator=P5
+Change Component Designator: OldDesignator=P? NewDesignator=P6
+Change Component Designator: OldDesignator=P? NewDesignator=P7
+Change Component Designator: OldDesignator=P? NewDesignator=P8
+Change Component Designator: OldDesignator=P? NewDesignator=P9
+Change Component Designator: OldDesignator=P? NewDesignator=P10
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetP5_2
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Pin To Net: NetName=NetP2_2 Pin=R2-2
+Added Net: Name=NetP2_2
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=R3-2
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_2 Pin=R4-2
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP6_2 Pin=P6-2
+Added Pin To Net: NetName=NetP6_2 Pin=R6-2
+Added Net: Name=NetP6_2
+Added Pin To Net: NetName=NetP7_2 Pin=P7-2
+Added Pin To Net: NetName=NetP7_2 Pin=R7-2
+Added Net: Name=NetP7_2
+Added Pin To Net: NetName=NetP8_2 Pin=P8-2
+Added Pin To Net: NetName=NetP8_2 Pin=R8-2
+Added Net: Name=NetP8_2
+Added Pin To Net: NetName=NetP9_2 Pin=P9-2
+Added Pin To Net: NetName=NetP9_2 Pin=R9-2
+Added Net: Name=NetP9_2
+Added Pin To Net: NetName=NetP10_2 Pin=P10-2
+Added Pin To Net: NetName=NetP10_2 Pin=R10-2
+Added Net: Name=NetP10_2
+Added Member To Class: ClassName=Beat Box Schematic Member=Component C1 Cap
+Added Member To Class: ClassName=Beat Box Schematic Member=Component C2 Cap
+Added Member To Class: ClassName=Beat Box Schematic Member=Component C3 Cap
+Added Member To Class: ClassName=Beat Box Schematic Member=Component C4 Cap
+Added Member To Class: ClassName=Beat Box Schematic Member=Component C5 Cap
+Added Member To Class: ClassName=Beat Box Schematic Member=Component C6 Cap
+Added Member To Class: ClassName=Beat Box Schematic Member=Component C7 Cap
+Added Member To Class: ClassName=Beat Box Schematic Member=Component C8 Cap
+Added Member To Class: ClassName=Beat Box Schematic Member=Component C9 Cap
+Added Member To Class: ClassName=Beat Box Schematic Member=Component P2 BTN1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component P3 BTN1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component P4 BTN1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component P5 BTN1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component P6 BTN1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component P7 BTN1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component P8 BTN1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component P9 BTN1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component R1 Res1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component R2 Res1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component R3 Res1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component R4 Res1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component R5 Res1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component R6 Res1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component R7 Res1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component R8 Res1
+Added Member To Class: ClassName=Beat Box Schematic Member=Component R9 Res1

@@ -1,0 +1,31 @@
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.1 New Footprint=RAD-0.2
+Change Component Footprint: Designator=C2 Old Footprint=RAD-0.1 New Footprint=RAD-0.2
+Change Component Footprint: Designator=C3 Old Footprint=RAD-0.1 New Footprint=RAD-0.2
+Change Component Footprint: Designator=C4 Old Footprint=RAD-0.1 New Footprint=RAD-0.2
+Change Component Footprint: Designator=C5 Old Footprint=RAD-0.1 New Footprint=RAD-0.2
+Change Component Footprint: Designator=C6 Old Footprint=RAD-0.1 New Footprint=RAD-0.2
+Change Component Footprint: Designator=C7 Old Footprint=RAD-0.1 New Footprint=RAD-0.2
+Change Component Footprint: Designator=C8 Old Footprint=RAD-0.1 New Footprint=RAD-0.2
+Change Component Footprint: Designator=C9 Old Footprint=RAD-0.1 New Footprint=RAD-0.2
+Change Component Footprint: Designator=C10 Old Footprint=RAD-0.1 New Footprint=RAD-0.2
+Change Component Comment : Designator=P2 Old Comment=BTN1 New Comment=BTN2
+Change Component Comment : Designator=P3 Old Comment=BTN1 New Comment=BTN3
+Change Component Comment : Designator=P4 Old Comment=BTN1 New Comment=BTN4
+Change Component Comment : Designator=P5 Old Comment=BTN1 New Comment=BTN5
+Change Component Comment : Designator=P6 Old Comment=BTN1 New Comment=BTN6
+Change Component Comment : Designator=P7 Old Comment=BTN1 New Comment=BTN7
+Change Component Comment : Designator=P8 Old Comment=BTN1 New Comment=BTN8
+Change Component Comment : Designator=P9 Old Comment=BTN1 New Comment=BTN9
+Change Component Comment : Designator=P10 Old Comment=BTN1 New Comment=BTN10
+Change Component Comment : Designator=P12 Old Comment=ENC1 New Comment=ENC2
+Change Component Comment : Designator=P13 Old Comment=ENC1 New Comment=ENC3
+Change Component Comment : Designator=P14 Old Comment=ENC1 New Comment=ENC4
+Change Component Comment : Designator=P15 Old Comment=ENC1 New Comment=ENC5
+Change Component Comment : Designator=P16 Old Comment=ENC1 New Comment=ENC6
+Change Component Comment : Designator=P17 Old Comment=ENC1 New Comment=ENC7
+Change Component Comment : Designator=P18 Old Comment=ENC1 New Comment=ENC8
+Change Component Comment : Designator=P19 Old Comment=ENC1 New Comment=ENC9
+Change Component Comment : Designator=P20 Old Comment=ENC1 New Comment=ENC10
+Added Member To Class: ClassName=Beat Box Schematic Member=Component * Mount Hole
+Added Member To Class: ClassName=Beat Box Schematic Member=Component * Mount Hole
+Added Member To Class: ClassName=Beat Box Schematic Member=Component * Mount Hole
